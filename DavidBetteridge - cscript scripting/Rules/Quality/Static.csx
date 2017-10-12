@@ -1,0 +1,2 @@
+﻿// Never changes
+Quality
